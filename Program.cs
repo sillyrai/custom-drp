@@ -19,9 +19,5 @@ namespace DRP
             
             System.Threading.Thread.Sleep(-1);
         }
-        private static void JoinRequested(object sender, DiscordRPC.Message.JoinRequestMessage args)
-        {
-            
-        }
     }
 }
