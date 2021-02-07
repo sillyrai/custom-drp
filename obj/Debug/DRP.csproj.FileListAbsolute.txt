@@ -1,0 +1,13 @@
+C:\Users\white\source\repos\DRP\DRP\bin\Debug\DRP.exe.config
+C:\Users\white\source\repos\DRP\DRP\bin\Debug\DRP.exe
+C:\Users\white\source\repos\DRP\DRP\bin\Debug\DRP.pdb
+C:\Users\white\source\repos\DRP\DRP\bin\Debug\DiscordRPC.dll
+C:\Users\white\source\repos\DRP\DRP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\white\source\repos\DRP\DRP\bin\Debug\DiscordRPC.pdb
+C:\Users\white\source\repos\DRP\DRP\bin\Debug\DiscordRPC.xml
+C:\Users\white\source\repos\DRP\DRP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\white\source\repos\DRP\DRP\obj\Debug\DRP.csprojAssemblyReference.cache
+C:\Users\white\source\repos\DRP\DRP\obj\Debug\DRP.csproj.CoreCompileInputs.cache
+C:\Users\white\source\repos\DRP\DRP\obj\Debug\DRP.csproj.CopyComplete
+C:\Users\white\source\repos\DRP\DRP\obj\Debug\DRP.exe
+C:\Users\white\source\repos\DRP\DRP\obj\Debug\DRP.pdb
