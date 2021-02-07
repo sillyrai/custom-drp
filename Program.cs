@@ -16,12 +16,6 @@ namespace DRP
 
             Context.UpdateState("for 2 years");
             Context.UpdateLargeAsset("minecraft");
-
-            Button BTN = new Button();
-            BTN.Label = "OwO?~";
-            BTN.Url = "https://owowhatsthis.xyz/";
-
-            Context.SetPresence(RP);
             
             System.Threading.Thread.Sleep(-1);
         }
